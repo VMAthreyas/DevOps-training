@@ -12,7 +12,7 @@ STEP-3 : Rename
 
 # mv apache-maven-3.5.4 maven
 
-STEP-4 : Add Maven Home Path in /etc/environment file.
+STEP-4 : Add Maven Home Path in /etc/environment file.     This can lead to non function of instance
 
 # cat /etc/environment
 
