@@ -16,7 +16,7 @@ STEP-4 : Check the Java Version
 
 # java -version
 
-STEP-5 : Setup Java Home Path & Configure for all users
+STEP-5 : Setup Java Home Path & Configure for all users           this can lead to non function of the instance.
 
 # cat /etc/environment
 JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.171-8.b10.38.amzn1.x86_64/
